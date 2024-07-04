@@ -1,0 +1,80 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": [
+            "cierra curiosidades Italia",
+            "salir"
+          ]
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": [
+            "que puedo hacer con esta skill",
+            "ayuda"
+          ]
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "LugaresTuristicosIntent",
+          "samples": [
+            "dime que lugares turísticos puedo visitar de Italia",
+            "mencióname lugares turísticos de Italia"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "ComidaTipicaIntent",
+          "samples": [
+            "dime que comida típica puedo comer en Italia",
+            "mencióname comida típica de Italia"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "TrajeTipicoIntent",
+          "samples": [
+            "dime cual es el traje típico de Italia",
+            "mencióname el traje típico de Italia"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "PersonajesIntent",
+          "samples": [
+            "dime los personajes sobresalientes de Italia",
+            "mencióname los personajes sobresalientes de Italia"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "MusicaIntent",
+          "samples": [
+            "quiero escuchar música de Italia",
+            "reproduce música de Italia"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "DescripcionIntent",
+          "samples": [
+            "dame una descripción de Italia",
+            "podrías describirme Italia"
+          ]
+        }
+      ],
+      "types": [],
+      "invocationName": "curiosidades italia"
+    }
+  }
+}
